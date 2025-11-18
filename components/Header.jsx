@@ -35,7 +35,7 @@ const Header =async () => {
                 <Link href={'/dashboard'}>
             <Button>
               <LayoutDashboard className='h-4 w-4 '/>
-              <span className='hidden md:block'>Industry insgght</span> 
+              <span className='hidden md:block'>Industry insights</span> 
             </Button>
             </Link>
               <DropdownMenu>
